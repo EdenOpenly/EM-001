@@ -1,0 +1,31 @@
+﻿pmid,first_author,year,ai_decision_full_text,reviewer_decision_blinded,agree,final_decision,ruling_on_disagreement,reviewer_country,reviewer_participants,reviewer_named_questionnaire
+10839396,Santanelli F,2000,include,include,yes,include,,Italy,5,none
+11314574,Smith YL,2001,include,include,yes,include,,Netherlands,20,none
+11391198,Hage JJ,2001,include,include,yes,include,,Netherlands,4,none
+12792540,Aköz T,2003,include,include,yes,include,,Turkey,2,none
+12832887,Kwun Kim S,2003,include,include,yes,include,,South Korea,28,none
+16703860,Felici N,2006,exclude,exclude,yes,exclude,,,,
+18164673,Kim SK,2009,include,include,yes,include,,South Korea,40,none
+19644267,Monstrey S,2009,exclude,exclude,yes,exclude,,,,
+21837613,Doornaert M,2011,exclude,exclude,yes,exclude,,,,
+21995738,Djordjevic ML,2011,include,include,yes,include,,Serbia,27,Female Sexual Function Index (FSFI)
+22139804,Trombetta C,2011,include,include,yes,include,,Italy,12,none
+22150145,Kim SK,2011,include,include,yes,include,,South Korea,2,none
+22547974,Reed HM,2011,exclude,exclude,yes,exclude,,,,
+22872844,Kim SK,2012,exclude,unclear,no,exclude,Shape and rigidity satisfaction is not a sexual outcome.,,,
+26928775,van der Sluis WB,2016,include,include,yes,include,,Netherlands,24,Female Sexual Function Index (FSFI)
+27156012,Djordjevic ML,2016,exclude,include,no,include,Outcomes after gender-affirming genital surgery and its reversal; excluding them would bias toward the declared prior.,Serbia,7,International Index of Erectile Function (IIEF-15)
+28194347,Kim SK,2017,exclude,exclude,yes,exclude,,,,
+29519186,Özkan Ö,2018,include,unclear,no,include,"Full text not obtained; kept on the abstract, relabelled.",,,
+30953318,Giovanardi G,2019,include,include,yes,include,,Italy,10,none
+31321174,Kaushik N,2019,include,include,yes,include,,India,386,none
+31542350,Al-Tamimi M,2019,include,include,yes,include,,Netherlands; Serbia; USA; Finland; France; Canada; Belgium,83,none
+32430267,van der Sluis WB,2020,exclude,exclude,yes,exclude,,,,
+37721184,Stelmar J,2023,include,include,yes,include,,USA,35,none
+38601805,Özer M,2023,include,include,yes,include,,Netherlands,15,none
+39262228,Gieles NC,2025,include,include,yes,include,,Netherlands,28,none
+39385959,Ross MB,2024,include,include,yes,include,,Netherlands,21,none
+39393169,Pelette R,2024,exclude,exclude,yes,exclude,,,,
+41718737,Abern L,2026,exclude,include,no,exclude,Outcome not reported separately for those on testosterone (mixed-group rule).,Not reported,408,none
+42217199,van Heesewijk JO,2026,exclude,include,no,include,Sex-drive change reported.,Netherlands,19,none
+42807449,Vestering A,2026,include,include,yes,include,,Netherlands,112,none
