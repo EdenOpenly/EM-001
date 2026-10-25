@@ -5,7 +5,7 @@ An evidence map of sexual health after gender-affirming care: where the evidence
 **Finding.** Of 959 PubMed records, 188 primary studies (19,792 participants) reported a sexual outcome in transgender people after hormones or genital surgery. Europe and North America contributed 88.7% of participants; East, Southeast and South Asia 5.4%. Korea contributed 3 studies and 70 participants (0.35%), all case series from one centre, with outcomes collected by interview. 45 of 188 studies (24%) used a named, published sexual-function questionnaire; no Korean study did.
 
 - Public page: https://edenopenly.com/korean-evidence-map/
-- Archived deposit (the report PDF and the data files): Zenodo, https://doi.org/10.5281/zenodo.23646560
+- Archived deposit (the report PDF and the data files): Zenodo, version 1.0 https://doi.org/10.5281/zenodo.23646560 (all versions: https://doi.org/10.5281/zenodo.23646559)
 - Presented as an e-poster at the Korean Association for Sexual Health (대한성학회) 2026 autumn conference, 21 November 2026
 
 ## Reproduce the figures
